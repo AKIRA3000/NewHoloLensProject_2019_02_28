@@ -1,0 +1,216 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: New Avatar Mask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Kureha_FullBody_2017_02_28_UpperBody
+    m_Weight: 1
+  - m_Path: Kureha_FullBody_2017_02_28_UpperBody/polySurface1387
+    m_Weight: 1
+  - m_Path: Kureha_FullBody_2017_02_28_UpperBody/polySurface1429
+    m_Weight: 1
+  - m_Path: L_eye_angry5
+    m_Weight: 1
+  - m_Path: L_eye_laughter
+    m_Weight: 1
+  - m_Path: L_eye_sad5
+    m_Weight: 1
+  - m_Path: L_eye_surprise5
+    m_Weight: 1
+  - m_Path: L_mouth_big_open
+    m_Weight: 1
+  - m_Path: L_mouth_draw
+    m_Weight: 1
+  - m_Path: L_mouth_open5
+    m_Weight: 1
+  - m_Path: L_mouth_sad
+    m_Weight: 1
+  - m_Path: L_mouth_smile5
+    m_Weight: 1
+  - m_Path: L_wink
+    m_Weight: 1
+  - m_Path: pCube1
+    m_Weight: 1
+  - m_Path: Pelvis
+    m_Weight: 1
+  - m_Path: Pelvis/Back
+    m_Weight: 1
+  - m_Path: Pelvis/Back/Chest
+    m_Weight: 1
+  - m_Path: Pelvis/Back/Chest/L_Shoulder
+    m_Weight: 1
+  - m_Path: Pelvis/Back/Chest/L_Shoulder/L_UpperArm
+    m_Weight: 1
+  - m_Path: Pelvis/Back/Chest/L_Shoulder/L_UpperArm/L_Elbow
+    m_Weight: 1
+  - m_Path: Pelvis/Back/Chest/L_Shoulder/L_UpperArm/L_Elbow/L_Twist
+    m_Weight: 1
+  - m_Path: Pelvis/Back/Chest/L_Shoulder/L_UpperArm/L_Elbow/L_Twist/L_Wrist
+    m_Weight: 1
+  - m_Path: Pelvis/Back/Chest/L_Shoulder/L_UpperArm/L_Elbow/L_Twist/L_Wrist/L_Index1
+    m_Weight: 1
+  - m_Path: Pelvis/Back/Chest/L_Shoulder/L_UpperArm/L_Elbow/L_Twist/L_Wrist/L_Index1/L_Index2
+    m_Weight: 1
+  - m_Path: Pelvis/Back/Chest/L_Shoulder/L_UpperArm/L_Elbow/L_Twist/L_Wrist/L_Index1/L_Index2/L_Index3
+    m_Weight: 1
+  - m_Path: Pelvis/Back/Chest/L_Shoulder/L_UpperArm/L_Elbow/L_Twist/L_Wrist/L_Middle1
+    m_Weight: 1
+  - m_Path: Pelvis/Back/Chest/L_Shoulder/L_UpperArm/L_Elbow/L_Twist/L_Wrist/L_Middle1/L_Middle2
+    m_Weight: 1
+  - m_Path: Pelvis/Back/Chest/L_Shoulder/L_UpperArm/L_Elbow/L_Twist/L_Wrist/L_Middle1/L_Middle2/L_Middle3
+    m_Weight: 1
+  - m_Path: Pelvis/Back/Chest/L_Shoulder/L_UpperArm/L_Elbow/L_Twist/L_Wrist/L_Pinky1
+    m_Weight: 1
+  - m_Path: Pelvis/Back/Chest/L_Shoulder/L_UpperArm/L_Elbow/L_Twist/L_Wrist/L_Pinky1/L_Pinky2
+    m_Weight: 1
+  - m_Path: Pelvis/Back/Chest/L_Shoulder/L_UpperArm/L_Elbow/L_Twist/L_Wrist/L_Pinky1/L_Pinky2/L_Pinky3
+    m_Weight: 1
+  - m_Path: Pelvis/Back/Chest/L_Shoulder/L_UpperArm/L_Elbow/L_Twist/L_Wrist/L_Ring1
+    m_Weight: 1
+  - m_Path: Pelvis/Back/Chest/L_Shoulder/L_UpperArm/L_Elbow/L_Twist/L_Wrist/L_Ring1/L_Ring2
+    m_Weight: 1
+  - m_Path: Pelvis/Back/Chest/L_Shoulder/L_UpperArm/L_Elbow/L_Twist/L_Wrist/L_Ring1/L_Ring2/L_Ring3
+    m_Weight: 1
+  - m_Path: Pelvis/Back/Chest/L_Shoulder/L_UpperArm/L_Elbow/L_Twist/L_Wrist/L_Thumb1
+    m_Weight: 1
+  - m_Path: Pelvis/Back/Chest/L_Shoulder/L_UpperArm/L_Elbow/L_Twist/L_Wrist/L_Thumb1/L_Thumb2
+    m_Weight: 1
+  - m_Path: Pelvis/Back/Chest/L_Shoulder/L_UpperArm/L_Elbow/L_Twist/L_Wrist/L_Thumb1/L_Thumb2/L_Thumb3
+    m_Weight: 1
+  - m_Path: Pelvis/Back/Chest/Neck
+    m_Weight: 1
+  - m_Path: Pelvis/Back/Chest/Neck/Head
+    m_Weight: 1
+  - m_Path: Pelvis/Back/Chest/R_Shoulder
+    m_Weight: 1
+  - m_Path: Pelvis/Back/Chest/R_Shoulder/R_UpperArm
+    m_Weight: 1
+  - m_Path: Pelvis/Back/Chest/R_Shoulder/R_UpperArm/R_Elbow
+    m_Weight: 1
+  - m_Path: Pelvis/Back/Chest/R_Shoulder/R_UpperArm/R_Elbow/R_Twist
+    m_Weight: 1
+  - m_Path: Pelvis/Back/Chest/R_Shoulder/R_UpperArm/R_Elbow/R_Twist/R_Wrist
+    m_Weight: 1
+  - m_Path: Pelvis/Back/Chest/R_Shoulder/R_UpperArm/R_Elbow/R_Twist/R_Wrist/R_Index1
+    m_Weight: 1
+  - m_Path: Pelvis/Back/Chest/R_Shoulder/R_UpperArm/R_Elbow/R_Twist/R_Wrist/R_Index1/R_Index2
+    m_Weight: 1
+  - m_Path: Pelvis/Back/Chest/R_Shoulder/R_UpperArm/R_Elbow/R_Twist/R_Wrist/R_Index1/R_Index2/R_Index3
+    m_Weight: 1
+  - m_Path: Pelvis/Back/Chest/R_Shoulder/R_UpperArm/R_Elbow/R_Twist/R_Wrist/R_Middle1
+    m_Weight: 1
+  - m_Path: Pelvis/Back/Chest/R_Shoulder/R_UpperArm/R_Elbow/R_Twist/R_Wrist/R_Middle1/R_Middle2
+    m_Weight: 1
+  - m_Path: Pelvis/Back/Chest/R_Shoulder/R_UpperArm/R_Elbow/R_Twist/R_Wrist/R_Middle1/R_Middle2/R_Middle3
+    m_Weight: 1
+  - m_Path: Pelvis/Back/Chest/R_Shoulder/R_UpperArm/R_Elbow/R_Twist/R_Wrist/R_Pinky1
+    m_Weight: 1
+  - m_Path: Pelvis/Back/Chest/R_Shoulder/R_UpperArm/R_Elbow/R_Twist/R_Wrist/R_Pinky1/R_Pinky2
+    m_Weight: 1
+  - m_Path: Pelvis/Back/Chest/R_Shoulder/R_UpperArm/R_Elbow/R_Twist/R_Wrist/R_Pinky1/R_Pinky2/R_Pinky3
+    m_Weight: 1
+  - m_Path: Pelvis/Back/Chest/R_Shoulder/R_UpperArm/R_Elbow/R_Twist/R_Wrist/R_Ring1
+    m_Weight: 1
+  - m_Path: Pelvis/Back/Chest/R_Shoulder/R_UpperArm/R_Elbow/R_Twist/R_Wrist/R_Ring1/R_Ring2
+    m_Weight: 1
+  - m_Path: Pelvis/Back/Chest/R_Shoulder/R_UpperArm/R_Elbow/R_Twist/R_Wrist/R_Ring1/R_Ring2/R_Ring3
+    m_Weight: 1
+  - m_Path: Pelvis/Back/Chest/R_Shoulder/R_UpperArm/R_Elbow/R_Twist/R_Wrist/R_Thumb1
+    m_Weight: 1
+  - m_Path: Pelvis/Back/Chest/R_Shoulder/R_UpperArm/R_Elbow/R_Twist/R_Wrist/R_Thumb1/R_Thumb2
+    m_Weight: 1
+  - m_Path: Pelvis/Back/Chest/R_Shoulder/R_UpperArm/R_Elbow/R_Twist/R_Wrist/R_Thumb1/R_Thumb2/R_Thumb3
+    m_Weight: 1
+  - m_Path: Pelvis/L_Hip
+    m_Weight: 1
+  - m_Path: Pelvis/L_Hip/L_Knee
+    m_Weight: 1
+  - m_Path: Pelvis/L_Hip/L_Knee/L_Ankle
+    m_Weight: 1
+  - m_Path: Pelvis/L_Hip/L_Knee/L_Ankle/L_Ball
+    m_Weight: 1
+  - m_Path: Pelvis/L_Hip/L_Knee/L_Ankle/L_Ball/L_Toe
+    m_Weight: 1
+  - m_Path: Pelvis/L_WakabaWing1
+    m_Weight: 1
+  - m_Path: Pelvis/L_WakabaWing2
+    m_Weight: 1
+  - m_Path: Pelvis/R_Hip
+    m_Weight: 1
+  - m_Path: Pelvis/R_Hip/R_Knee
+    m_Weight: 1
+  - m_Path: Pelvis/R_Hip/R_Knee/R_Ankle
+    m_Weight: 1
+  - m_Path: Pelvis/R_Hip/R_Knee/R_Ankle/R_Ball
+    m_Weight: 1
+  - m_Path: Pelvis/R_Hip/R_Knee/R_Ankle/R_Ball/R_Toe
+    m_Weight: 1
+  - m_Path: Pelvis/R_WakabaWing1
+    m_Weight: 1
+  - m_Path: Pelvis/R_WakabaWing2
+    m_Weight: 1
+  - m_Path: Pelvis/Scurt
+    m_Weight: 1
+  - m_Path: polySurface273
+    m_Weight: 1
+  - m_Path: polySurface1334
+    m_Weight: 1
+  - m_Path: polySurface1380
+    m_Weight: 1
+  - m_Path: polySurface1412
+    m_Weight: 1
+  - m_Path: polySurface1428
+    m_Weight: 1
+  - m_Path: polySurface1430
+    m_Weight: 1
+  - m_Path: polySurface1446
+    m_Weight: 1
+  - m_Path: polySurface1447
+    m_Weight: 1
+  - m_Path: polySurface1574
+    m_Weight: 1
+  - m_Path: polySurface1589
+    m_Weight: 1
+  - m_Path: pPlane2
+    m_Weight: 1
+  - m_Path: pPlane3
+    m_Weight: 1
+  - m_Path: pPlane4
+    m_Weight: 1
+  - m_Path: pPlane5
+    m_Weight: 1
+  - m_Path: R_eye_angry3
+    m_Weight: 1
+  - m_Path: R_eye_laughter
+    m_Weight: 1
+  - m_Path: R_eye_sad3
+    m_Weight: 1
+  - m_Path: R_eye_surprise3
+    m_Weight: 1
+  - m_Path: R_eye_wink
+    m_Weight: 1
+  - m_Path: R_mouth_big_open
+    m_Weight: 1
+  - m_Path: R_mouth_draw
+    m_Weight: 1
+  - m_Path: R_mouth_open3
+    m_Weight: 1
+  - m_Path: R_mouth_sad
+    m_Weight: 1
+  - m_Path: R_mouth_smile3
+    m_Weight: 1
+  - m_Path: Rigs_And_Bones_Master_CTRL
+    m_Weight: 1
+  - m_Path: Rigs_And_Bones_Master_CTRL/Rigs_And_Bones_Pelvis_CTRL
+    m_Weight: 1
+  - m_Path: Wakaba_Face:polySurface1514
+    m_Weight: 1
+  - m_Path: Wakaba_Face:polySurface1519
+    m_Weight: 1
